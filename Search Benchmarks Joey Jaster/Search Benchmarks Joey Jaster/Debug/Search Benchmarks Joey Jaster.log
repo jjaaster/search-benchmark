@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\joe.jaster\source\repos\Search Benchmarks Joey Jaster\Search Benchmarks Joey Jaster\Source.cpp(60,2): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Search Benchmarks Joey Jaster.vcxproj -> C:\Users\joe.jaster\source\repos\Search Benchmarks Joey Jaster\Debug\Search Benchmarks Joey Jaster.exe
